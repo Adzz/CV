@@ -1,10 +1,12 @@
-## Your Name
+## Adam Lancaster
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
+  A well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Despite my work, the want is not usually fully realised, however the motivation to keep trying has yet to diminish; and I contend that's what really matters. 
+  After university I was lucky enough to stumble on an industry that would pay me well to travel around the world. I learnt, to my incredulity, that money wasn't everything. Nor was travel, and so I started doing something that was.
+  I am looking to continue the pace of learning I've achieved so far, and want to work somewhere where my skills can be put to use in a way that will make a real difference. 
+  
 ## Skills
 
-#### This Skill
+#### Javascript
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +14,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Ruby
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,19 +25,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2015 to February 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC,
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Pair programming
+- Agile workflows
+- Ruby, Rails, Javascript, Node.js, Angular.js, Python.
+- Rspec, Jasmine, Nose, Protractor
 
-#### Your University / College (start_date to end_date)
+#### Reading University (Sept 2009 to July 2012)
 
-- Subject, any specialisms
-- Grade
+- Bsc Psychology and Philosophy
+- 2.1
 - Other cool stuff
 
 #### Any other qualifications
