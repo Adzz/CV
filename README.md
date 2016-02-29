@@ -10,7 +10,7 @@
 |Ruby on Rails | Experimented with an [instagram](https://github.com/Adzz/instagram-challenge) and [yelp](https://github.com/Adzz/yelp_clone_rails) clone in rails  |
 | Javascript, Karma, Jasmine, Angular, Protractor, Jasmine.  | Concieved and built a [job tracking application](https://github.com/michaellennox/jobber) which included an angular front end with good e2e test coverage using Protractor and unit test coverage with Karma.|
 | Python, Nose                | Built a python backend with Flask for my final project [Job Trackr] (https://github.com/michaellennox/jobber), a job tracking website to ease the process of job hunting. We tested it with unittest and Nose. The project was concieved and built in two weeks in a team of four.|
-| Clojure, speclj             | Outside of Makers I have begun to dabble in Clojure, starting with [fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and continuing with the Speclj [tutorial](http://speclj.com/tutorial) to improve my Test Driven  https://github.com/Adzz/clojure_speclj_change_counter                           |
+| Clojure, speclj             | Outside of Makers I have started to dabble in Clojure, begining with [fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and continuing with the Speclj [tutorial](https://github.com/Adzz/clojure_speclj_change_counter) to get me up to speed on testing in clojure. I find functional programming incredibly interesting and powerful and aim to spend more time developing my skills here in the future. |
 
 
 #### 
