@@ -18,10 +18,10 @@
 Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
 
 At Makers Academy I had several opportunities to present to large and small groups of people including:
-    - Final project presentations, parts of which can be found on Twitter: [https://twitter.com/makersacademy/status/700746991995899904]
-    - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
-    - Running regular stand ups and retro's
-    - I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
+- Final project presentations, parts of which can be found on Twitter: [https://twitter.com/makersacademy/status/700746991995899904]
+- Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
+- Running regular stand ups and retro's
+- I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
 
 ## Education
 
