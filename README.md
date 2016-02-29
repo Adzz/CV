@@ -1,9 +1,7 @@
 ## Adam Lancaster
 
-  A well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Despite my work, the want is not usually fully realised, however the motivation to keep trying has yet to diminish; and I contend that's what really matters. 
-  After university I was lucky enough to stumble on an industry that would pay me well to travel around the world. I learnt, to my incredulity, that money wasn't everything. Nor was travel, and so I started doing something that was.
-  I am looking to continue the pace of learning I've achieved so far, and want to work somewhere where my skills can be put to use in a way that will make a real difference. 
-  
+  A well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Despite my work, the want is not usually fully realised, however the motivation to keep trying has yet to diminish; and I contend that's what really matters. After university I was lucky enough to stumble on an industry that would pay me well to travel around the world. I learnt, to my incredulity, that money wasn't everything. Nor was travel, and so I started doing something that was. I am looking to continue the pace of learning I've achieved so far, and want to work somewhere where my skills can be put to use in a way that will make a real difference. 
+
 ## Skills
 
 #### Javascript
@@ -46,7 +44,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Motor Yacht Sky** (Sept 2014 to Nov 2015)    
+Bosun
+
+**JBT** (Feb 2014 to Sept 2014)   
+*Co founder/Head of Branding/Labourer*  
+
+**Motor Yacht Blind Date** (Nov 2012 to Feb 2014)   
+Deckhand
