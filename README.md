@@ -5,7 +5,7 @@
 ## Skills and Experience
 
 | Technologies                | Projects and Experience           |
-|:---------------------------:|:---------------------------------:|
+|:---------------------------:|:----------------------------------|
 | Ruby, Rspec                 | Have completed many small projects in Ruby including [airport challenge](https://github.com/Adzz/airport_challenge), starting from user stories and iterating towards a complete well tested project.                        |
 |Ruby on Rails | Experimented with an [instagram](https://github.com/Adzz/instagram-challenge) and [yelp](https://github.com/Adzz/yelp_clone_rails) clone in rails  |
 | Javascript, Karma, Jasmine, Angular, Protractor, Jasmine.  | Concieved and built a [job tracking application](https://github.com/michaellennox/jobber) which included an angular front end with good e2e test coverage using Protractor and unit test coverage with Karma.|
