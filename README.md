@@ -49,13 +49,23 @@ Whilst there I gained experience with
 
 ## Experience
 
-**Motor Yacht Sky** (Sept 2014 to Nov 2015)    
+** Emberg Enterprises - Motor Yacht Sky** (Sept 2014 to Nov 2015)    
 Bosun
+
+Helped guide the boat through a 6 month yard period in France which involved lots of contractors of many different nationalities. Required balancing everyone's interests, personalities and deadlines, usually in a language that I don't speak. After the shipyard, I spent 5 months working very long hours sailing around the East and West Med. Responsibilities included navigational watches, managing other crew members and taking responsibility for the safety and welfarfe of the crew and passengers. 
+
 
 **JBT** (Feb 2014 to Present)   
 Co founder/Head of Branding/Labourer  
 
-As soon as I started yachting I began saving to invest in property with my brother. I branded and invested in his building company and helped with physical labour whenever I had time off work. We bought our first house in July 2015 and completed extensive renovations by January 2016. This required a demanding work ethic and careful time management as most of the renovation work overlapped with my time at Makers Academy. Aside from the physical work I sourced supplies, applied for various licenses and permissions with the council which included producing my own scale drawings of proposed work, and even attending a deputation at Portsmouth City Council, where I had to defend our plans in front of neighbours, council members and a planning committee.
+As soon as I started yachting I began saving to invest in property with my brother. I branded and invested in his building company and helped with physical labour whenever I had time off work. We bought our first house in July 2015 and completed extensive renovations by January 2016. This required a demanding work ethic and careful time management as most of the renovation work overlapped with my time at Makers Academy, and took place in a different city. Aside from the physical work I sourced supplies and handled the application of various licenses and permissions needed to complete the work. The applications were not simple and required producing my own scale drawings of proposed work, negotiating with neighbours and the council and even attendance at a deputation where I had to defend our plans in front of a planning committee.
 
-**Motor Yacht Blind Date** (Nov 2012 to Feb 2014)   
+**Rockstar Marine - Motor Yacht Blind Date** (Sept 2013 to Feb 2014)
+Bosun
+
+Role involved managing teams of deckhands and dayworkers, organising activities for demanding clients and a step up in responsibilities in regards to safety for activities and passages. Heavily involved in integrating and training a completely new crew, being the only person left after the season who wasn't fired or retired.
+
+**Rockstar Marine - Motor Yacht Blind Date** (Nov 2012 to Sept 2013)   
 Deckhand
+
+Flew to Florida with no contacts and networked to secure a job on a 50m yacht with a sterling reputation. Responsibilities included; maintaing the yacht; driving tenders and keeping bridge watches; meeting the demands of some of the richest people in the world, being responsible for the safety of those same people during water sports, passages and parties. Secured a promotion in under a year.
