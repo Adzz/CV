@@ -1,4 +1,4 @@
-## [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
+# [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
 
 [Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](https://www.adzz.github.io)
 
