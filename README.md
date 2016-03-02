@@ -1,5 +1,7 @@
 ## [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
 
+<a name="Education">Education</a>
+
   A well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Despite my work, the want is not usually fully realised, however the motivation to keep trying has yet to diminish; and I contend that's what really matters. After university I was lucky enough to stumble on an industry that would pay me well to travel around the world. I learnt, to my incredulity, that money wasn't everything, nor was travel, and so I started doing something that was. I am looking to continue the pace of learning I've achieved so far, and want to work somewhere that I am passionate about, where my skills can make a real difference.
 
 ## Skills and Experience
@@ -18,12 +20,12 @@
 Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
 
 At Makers Academy I had several opportunities to present to large and small groups of people including:
-- Final project presentations, parts of which can be found on Twitter: [https://twitter.com/makersacademy/status/700746991995899904]
+- Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
 - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
 - Running regular stand ups and retro's
 - I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
 
-## Education
+## [Education](#Education)
 
 #### [Makers Academy](http://www.makersacademy.com/) (November 2015 to February 2016)
 
