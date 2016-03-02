@@ -67,7 +67,7 @@ As soon as I started yachting I began saving to invest in property with my broth
 
 Role involved managing teams of deckhands and dayworkers, organising activities for demanding clients and a step up in responsibilities in regards to safety for activities and passages. Heavily involved in integrating and training a completely new crew, being the only person left after the season who wasn't fired or retired.
 
-**Rockstar Marine - Motor Yacht Blind Date**
+####Rockstar Marine - Motor Yacht Blind Date
 (Nov 2012 to Sept 2013)   
 #####Deckhand
 
