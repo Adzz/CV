@@ -1,10 +1,10 @@
 ## [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
 
-[Education](#education)
+[Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io)
 
   A well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Despite my work, the want is not usually fully realised, however the motivation to keep trying has yet to diminish; and I contend that's what really matters. After university I was lucky enough to stumble on an industry that would pay me well to travel around the world. I learnt, to my incredulity, that money wasn't everything, nor was travel, and so I started doing something that was. I am looking to continue the pace of learning I've achieved so far, and want to work somewhere that I am passionate about, where my skills can make a real difference.
 
-## Skills and Experience
+## <a name="skills">Skills and Experience</a>
 
 | Technologies                | Projects and Experience           |
 |:---------------------------:|:----------------------------------|
@@ -45,11 +45,8 @@ Whilst there I gained experience with
 - Bsc Psychology and Philosophy
 - 2.1
 
-#### Other qualifications
 
-- Commercially Endorsed Yachtmasters
-
-## Experience
+## <a name="exp">Experience</a>
 
 **Emberg Enterprises - Motor Yacht Sky** (Sept 2014 to Nov 2015)    
 Bosun
