@@ -1,10 +1,31 @@
 # [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
 
-#### [Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](https://www.adzz.github.io)
+#### [Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io) | [Twitter](https://twitter.com/ItizAdz)
 
-  Well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. I am looking to continue the pace of learning I've achieved so far, and want to work somewhere that I am passionate about, where my skills can make a real difference.
+  Well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. I recently changed careers and moved back to England to focus on learning code full time at [Makers Academy](http://www.makersacademy.com/). It was the best decision I've ever made. I am looking to build on the passion I have for code and continue the pace of learning I've achieved so far.
 
 ## <a name="skills">Skills and Experience</a>
+
+#### Presenting and Public Speaking
+
+Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
+
+- Presented to large and small groups of people at Makers including:
+  - Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
+  - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
+  - Whilst running regular stand ups and retro's
+  - I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
+
+- Recently gave a speech to neighbours, councillors and a planning committee at a planning deputation.
+
+#### Comfortable not knowing everything
+#### Using my Initiative
+#### Working hard
+#### Self motivated
+#### Working in challenging environments
+#### Proven track record of achievement
+#### Logical debugging
+#### Personable
 
 | Technologies                | Projects and Experience           |
 |:---------------------------:|:----------------------------------|
@@ -14,16 +35,6 @@
 | Python, Nose                | Built a python backend with Flask for my final project [Job Trackr] (https://github.com/michaellennox/jobber), a job tracking website to ease the process of job hunting. We tested it with unittest and Nose. The project was concieved and built in two weeks in a team of four.|
 | Clojure, speclj             | Outside of Makers I have started to dabble in Clojure, begining with [fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and continuing with the Speclj [tutorial](https://github.com/Adzz/clojure_speclj_change_counter) to get me up to speed on testing in clojure. I find functional programming incredibly interesting and powerful and aim to spend more time developing my skills here in the future. |
 
-
-#### Presenting and Public Speaking
-
-Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
-
-At Makers Academy I had several opportunities to present to large and small groups of people including:
-- Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
-- Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
-- Running regular stand ups and retro's
-- I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
 
 ## <a name="education">Education</a>
 
@@ -55,11 +66,14 @@ Bosun
 Helped guide the boat through a 6 month yard period in France which involved lots of contractors of many different nationalities. Required balancing everyone's interests, personalities and deadlines, usually in a language that I don't speak. After the shipyard, I spent 5 months working very long hours sailing around the East and West Med. Responsibilities included navigational watches, managing other crew members and taking responsibility for the safety and welfarfe of the crew and passengers. 
 
 
-####JBT 
+####[JBT](https://www.facebook.com/JBTfromstarttofinish)
 #####Co founder/Head of Branding/Labourer 
 (Feb 2014 to Present) 
 
-As soon as I started yachting I began saving to invest in property with my brother. I branded and invested in his building company and helped with physical labour whenever I had time off work. We bought our first house in July 2015 and completed extensive renovations by January 2016. This required a demanding work ethic and careful time management as most of the renovation work overlapped with my time at Makers Academy, and took place in a different city. Aside from the physical work I sourced supplies and handled the application of various licenses and permissions needed to complete the work. The applications were not simple and required producing my own scale drawings of proposed work, negotiating with neighbours and the council and even attendance at a deputation where I had to defend our plans in front of a planning committee.
+- Branded a building company who invested and worked with me in buying and renovating a student house.
+- Sourced supplies, laboured and handled the application of various licenses and permissions.
+- Produced scale drawings of proposed work, negotiated with neighbours and attended a deputation where I had to fight for our plans in front of a planning committee.
+- Required a demanding work ethic and careful time management; time working here overlapped with my time at Makers Academy
 
 ####Rockstar Marine - Motor Yacht Blind Date
 #####Bosun
