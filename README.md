@@ -4,7 +4,7 @@
 
   Well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. I recently changed careers and moved back to England to focus on learning code full time at [Makers Academy](http://www.makersacademy.com/). It was the best decision I've ever made. I am looking to build on the passion I have for code and continue the pace of learning I've achieved so far. I want to use agile practices to work on projects that I can be proud of; projects that actually matter.
 
-## <a name="skills">Skills and Experience</a>
+## <a name="skills">Skills</a>
 
 #### Presenting and Public Speaking
 
@@ -29,27 +29,18 @@ At Makers Academy we pair programme from day one. I am very comfortable working 
 
 #### Fast Learner
 
-Room for constant improvement and development is what has motivated me in everything I've done so far.
+Room for constant improvement and development is what has motivated me in everything I've done so far. I'm always looking for new and interesting technologies as well as methods to improve my working practices.
 
 - Built over 25 small projects in 12 weeks at Makers Academy.
 - Entered yachting with no previous experience and gained a promotion in under a year. 
+- Recently started playing with Clojure and functional programming. Completed [Fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and the [speclj tutorial](http://speclj.com/tutorial), [here](https://github.com/Adzz/clojure_speclj_change_counter)
 
 #### Comfortable in difficult or uncertain cirumstances
 
-One of the things I enjoy most about web development is that there is always more to learn. The consequence of this is that there's always something that you *don't* know. Being comfortable with this is a skill I've had good practice with.
+One of the things I enjoy most about web development is that there is always more to learn. The consequence of this is that there's always something that you *don't* know. Being comfortable with situations like this is a skill I've had good practice with.
 
 - Working on yachts was nomadic, plans changed frequently if they ever existed. Uncertainty was part of the job.
-
-
-
-| Technologies                | Projects and Experience           |
-|:---------------------------:|:----------------------------------|
-| Ruby, Rspec                 | Have completed many small projects in Ruby including [airport challenge](https://github.com/Adzz/airport_challenge), starting from user stories and iterating towards a complete well tested project.                        |
-|Ruby on Rails | Experimented with an [instagram](https://github.com/Adzz/instagram-challenge) and [yelp](https://github.com/Adzz/yelp_clone_rails) clone in rails  |
-| Javascript, Karma, Jasmine, Angular, Protractor, Jasmine.  | Concieved and built a [job tracking application](https://github.com/michaellennox/jobber) which included an angular front end with good e2e test coverage using Protractor and unit test coverage with Karma.|
-| Python, Nose                | Built a python backend with Flask for my final project [Job Trackr] (https://github.com/michaellennox/jobber), a job tracking website to ease the process of job hunting. We tested it with unittest and Nose. The project was concieved and built in two weeks in a team of four.|
-| Clojure, speclj             | Outside of Makers I have started to dabble in Clojure, begining with [fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and continuing with the Speclj [tutorial](https://github.com/Adzz/clojure_speclj_change_counter) to get me up to speed on testing in clojure. I find functional programming incredibly interesting and powerful and aim to spend more time developing my skills here in the future. |
-
+- Started a property business and successfully increased the value of out first property and rented it out.
 
 ## <a name="exp">Experience</a>
 
@@ -75,7 +66,7 @@ Worked with people of many different nationalities and native languages. Require
 
 Branded a building company who invested and worked with me in buying and renovating a student house.
 - Sourced supplies, laboured and handled the application of various licenses and permissions.
-- Produced scale drawings of proposed work, negotiated with neighbours and attended a deputation where I had to fight for our plans in front of a planning committee.
+- Produced scale drawings of proposed work, negotiated with neighbours and attended a deputation at council chambers, where I had to fight for our plans in front of a planning committee.
 - Required a demanding work ethic and careful time management; time working here overlapped with my time at Makers Academy
 
 ####Rockstar Marine - Motor Yacht Blind Date
