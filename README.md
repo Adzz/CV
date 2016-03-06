@@ -20,18 +20,26 @@ Confident and comfortable presenting to large groups of people, even if I don't 
 
 #### Collaboration
 
-At Makers Academy we pair programme from day one. I am very comfortable working with others effectively. Am extremley personable and have extensive practice in what it takes to get the best out of a team.
+At Makers Academy we pair programme from day one. I am very comfortable working with others effectively. Am extremley personable and have extensive practice in doing what's needed to get the best out of a team.
 
 - Pair programming at Makers Academy to produce a variety of [projects](https://github.com/Adzz)
-- Renovated [my investment property](http://www.spareroom.co.uk/flatshare/hampshire/portsmouth/4632549) on a very tight schedule and budget in a team of just two.
+- Successfully renovated and rented [my investment property](http://www.spareroom.co.uk/flatshare/hampshire/portsmouth/4632549) on a very tight schedule and budget in a team of just two.
+- As Alumni helper I regularly share knowledge with junior students to help with their learning. 
 - Worked and lived with a team of 10 people whilst yachting. Produced extremely high standards under constantly changing circumstances.
 
-#### Comfortable not knowing everything
+#### Fast Learner
 
-One of the things I enjoy most about web development is that there is always more to know. The consequence of this is that there's always something that you *don't* know. Being comfortable with this is a skill I've had good practice with.
+Room for constant improvement and development is what has motivated me in everything I've done so far.
+
+- Built over 25 small projects in 12 weeks at Makers Academy.
+- Entered yachting with no previous experience and gained a promotion in under a year. 
+
+#### Comfortable in difficult or uncertain cirumstances
+
+One of the things I enjoy most about web development is that there is always more to learn. The consequence of this is that there's always something that you *don't* know. Being comfortable with this is a skill I've had good practice with.
 
 - Working on yachts was nomadic, plans changed frequently if they ever existed. Uncertainty was part of the job.
-- At Makers learning from scratch at pace ensures you are comfortable with learning what you need to know 
+
 
 
 | Technologies                | Projects and Experience           |
@@ -95,7 +103,7 @@ Makers Academy is Europe's best coding bootcamp. It is highly selective, intense
 
 Whilst there I gained experience with
 - Ruby, Rails, Javascript, Node.js, Angular.js, Python, Sass, HTML, CSS. 
-- Rspec, Jasmine, Nose, Protractor, Capybara, Karma. 
+- Rspec, Jasmine, Nose, Protractor, Capybara, Karma and many more! 
 
 #### Reading University (Sept 2009 to July 2012)
 
