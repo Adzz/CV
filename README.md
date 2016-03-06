@@ -28,7 +28,10 @@ At Makers Academy we pair programme from day one. I am very comfortable working 
 
 #### Comfortable not knowing everything
 
+One of the things I enjoy most about web development is that there is always more to know. The consequence of this is that there's always something that you *don't* know. Being comfortable with this is a skill I've had good practice with.
 
+- Working on yachts was nomadic, plans changed frequently if they ever existed. Uncertainty was part of the job.
+- At Makers learning from scratch at pace ensures you are comfortable with learning what you need to know 
 
 
 | Technologies                | Projects and Experience           |
@@ -41,6 +44,16 @@ At Makers Academy we pair programme from day one. I am very comfortable working 
 
 
 ## <a name="exp">Experience</a>
+
+#### Makers Academy
+#####Alumni Helper
+(Feb 2016 to March 2016)
+
+Selected out of a cohort of 30 people to coach and mentor current students.
+- Coached students to engage in systematic problem solving and debugging.
+- Carefully guided them towards the answers they needed, encouraged them to learn how to help themselves.
+- Read and reviewed code from several languages, on many different projects.
+- Shared knowledge when appropriate.
 
 ####Emberg Enterprises - Motor Yacht Sky 
 #####Bosun
