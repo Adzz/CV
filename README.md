@@ -63,14 +63,14 @@ Whilst there I gained experience with
 Bosun
 (Sept 2014 to Nov 2015)    
 
-Helped guide the boat through a 6 month yard period in France which involved lots of contractors of many different nationalities. Required balancing everyone's interests, personalities and deadlines, usually in a language that I don't speak. After the shipyard, I spent 5 months working very long hours sailing around the East and West Med. Responsibilities included navigational watches, managing other crew members and taking responsibility for the safety and welfarfe of the crew and passengers. 
+Worked with people of many different nationalities and native languages. Required balancing everyone's interests, personalities and deadlines, usually in a language that I don't speak. Worked 5 months straight with no days off, for very long hours. Sailed around the East and West Med. Responsibilities included navigational watches, managing other crew members and taking responsibility for the safety and welfarfe of the crew and passengers. 
 
 
 ####[JBT](https://www.facebook.com/JBTfromstarttofinish)
 #####Co founder/Head of Branding/Labourer 
 (Feb 2014 to Present) 
 
-- Branded a building company who invested and worked with me in buying and renovating a student house.
+Branded a building company who invested and worked with me in buying and renovating a student house.
 - Sourced supplies, laboured and handled the application of various licenses and permissions.
 - Produced scale drawings of proposed work, negotiated with neighbours and attended a deputation where I had to fight for our plans in front of a planning committee.
 - Required a demanding work ethic and careful time management; time working here overlapped with my time at Makers Academy
@@ -79,7 +79,7 @@ Helped guide the boat through a 6 month yard period in France which involved lot
 #####Bosun
 (Sept 2013 to Feb 2014) 
 
-Role involved managing teams of deckhands and dayworkers, organising activities for demanding clients and a step up in responsibilities in regards to safety for activities and passages. Heavily involved in integrating and training a completely new crew, being the only person left after the season who wasn't fired or retired.
+Managed teams of deckhands and dayworkers, organised activities for demanding clients and took responsibility for safety on those activities and passages. Instrumental in integrating and training a completely new crew, being the only person left after the season who wasn't fired or retired.
 
 ####Rockstar Marine - Motor Yacht Blind Date
 (Nov 2012 to Sept 2013)   
