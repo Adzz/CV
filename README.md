@@ -2,7 +2,7 @@
 
 #### [Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io) | [Twitter](https://twitter.com/ItizAdz)
 
-  Well travelled, aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. I recently changed careers and moved back to England to focus on learning code full time at [Makers Academy](http://www.makersacademy.com/). It was the best decision I've ever made. I am looking to build on the passion I have for code and continue the pace of learning I've achieved so far. I want to use agile practices to work on projects that I can be proud of; projects that actually matter.
+  Aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case.
 
 ## <a name="skills">Skills</a>
 
@@ -10,13 +10,11 @@
 
 Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
 
+- Volunteered to do a lightning talk at [Rails Girls](http://railsgirls.london/) to what turned out to be an audience of over 150 people.
+- Have given a two talks at various meetups. One on functional programming ([slides here](http://slides.com/adz/deck-1#/)), the other of which included live coding. Where I coded. Live.
 - Presented to large and small groups of people at Makers including:
   - Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
   - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
-  - Whilst running regular stand ups and retro's
-  - I also wrote blog for the duration of the course that can be found [here](https://36bcab.wordpress.com/).
-
-- Recently gave a speech to neighbours, councillors and a planning committee at a planning deputation.
 
 #### Collaboration
 
@@ -33,7 +31,6 @@ Room for constant improvement and development is what has motivated me in everyt
 
 - Built over 25 small projects in 12 weeks at Makers Academy.
 - Entered yachting with no previous experience and gained a promotion in under a year. 
-- Recently started playing with Clojure and functional programming. Completed [Fizzbuzz](https://github.com/Adzz/fizz-buzz-clojure), and the [speclj tutorial](http://speclj.com/tutorial), [here](https://github.com/Adzz/clojure_speclj_change_counter)
 
 #### Comfortable in difficult or uncertain cirumstances
 
@@ -44,8 +41,20 @@ One of the things I enjoy most about web development is that there is always mor
 
 ## <a name="exp">Experience</a>
 
+#### Surfdome - Surfstich Group
+#### Software Developer
+(April 2016 - present)
+
+#### [Code At Uni](http://www.codeatuni.com/)
+#### Coach
+(November 2016 - present)
+
+- Coach undergrad and Masters students at various universities around the country.
+- Spend 2 days teaching them how to build their own website using HTML and  CSS, most of whom have never programmed before.
+- It is always rewarding to see what they manage to achieve in such a short time. Teaching forces you to be a better communicator, which is invaluable to being a software developer.
+
 #### Makers Academy
-#####Alumni Helper
+#### Alumni Helper
 (Feb 2016 to March 2016)
 
 Selected out of a cohort of 30 people to coach and mentor current students.
@@ -54,14 +63,14 @@ Selected out of a cohort of 30 people to coach and mentor current students.
 - Read and reviewed code from several languages, on many different projects.
 - Shared knowledge when appropriate.
 
-####Emberg Enterprises - Motor Yacht Sky 
-#####Bosun
+#### Emberg Enterprises - Motor Yacht Sky 
+#### Bosun
 (Sept 2014 to Nov 2015)    
 
 Worked with people of many different nationalities and native languages. Required balancing everyone's interests, personalities and deadlines, usually in a language that I don't speak. Worked 5 months straight with no days off, for very long hours. Sailed around the East and West Med. Responsibilities included navigational watches, managing other crew members and taking responsibility for the safety and welfarfe of the crew and passengers. 
 
-####[JBT](https://www.facebook.com/JBTfromstarttofinish)
-#####Co founder/Head of Branding/Labourer 
+#### [JBT](https://www.facebook.com/JBTfromstarttofinish)
+#### Co founder/Head of Branding/Labourer 
 (Feb 2014 to Present) 
 
 Branded a building company who invested and worked with me in buying and renovating a student house.
@@ -69,15 +78,15 @@ Branded a building company who invested and worked with me in buying and renovat
 - Produced scale drawings of proposed work, negotiated with neighbours and attended a deputation at council chambers, where I had to fight for our plans in front of a planning committee.
 - Required a demanding work ethic and careful time management; time working here overlapped with my time at Makers Academy
 
-####Rockstar Marine - Motor Yacht Blind Date
-#####Bosun
+#### Rockstar Marine - Motor Yacht Blind Date
+#### Bosun
 (Sept 2013 to Feb 2014) 
 
 Managed teams of deckhands and dayworkers, organised activities for demanding clients and took responsibility for safety on those activities and passages. Instrumental in integrating and training a completely new crew, being the only person left after the season who wasn't fired or retired.
 
-####Rockstar Marine - Motor Yacht Blind Date
+#### Rockstar Marine - Motor Yacht Blind Date
 (Nov 2012 to Sept 2013)   
-#####Deckhand
+#### Deckhand
 
 Flew to Florida with no contacts and networked to secure a job on a 50m yacht with a sterling reputation. Responsibilities included; maintaing the yacht; driving tenders and keeping bridge watches; meeting the demands of some of the richest people in the world, being responsible for the safety of those same people during water sports, passages and parties. Secured a promotion in under a year.
 
