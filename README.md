@@ -45,6 +45,13 @@ One of the things I enjoy most about web development is that there is always mor
 #### Software Developer
 (April 2016 - present)
 
+Joined as part of a team dedicated to giving a much needed revamp to the backend tools. The role has been  varied with work including but not limited to:
+ - Refactoring horrible legacy code
+ - Debugging and fixing bugs and broken data
+ - Helping to replatform one of the websites on to a node front end.
+ - Implementing new features on different code bases
+
+
 #### [Code At Uni](http://www.codeatuni.com/)
 #### Coach
 (November 2016 - present)
