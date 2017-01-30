@@ -1,6 +1,6 @@
 # [Adam Lancaster](https://www.linkedin.com/in/adam-lancaster-9845a23a?trk=nav_responsive_tab_profile_pic)
 
-#### [Education](#education) | [Experience](#exp) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io) | [Twitter](https://twitter.com/ItizAdz)
+#### [Experience](#exp) | [Education](#education) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io) | [Twitter](https://twitter.com/ItizAdz)
 
   Aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case.
 
