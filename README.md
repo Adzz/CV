@@ -4,41 +4,6 @@
 
   Aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case.
 
-## <a name="skills">Skills</a>
-
-#### Presenting and Public Speaking
-
-Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
-
-- Volunteered to do a lightning talk at [Rails Girls](http://railsgirls.london/) to what turned out to be an audience of over 150 people.
-- Have given a two talks at various meetups. One on functional programming ([slides here](http://slides.com/adz/deck-1#/)), the other of which included live coding. Where I coded. Live.
-- Presented to large and small groups of people at Makers including:
-  - Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
-  - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
-
-#### Collaboration
-
-At Makers Academy we pair programme from day one. I am very comfortable working with others effectively. Am extremley personable and have extensive practice in doing what's needed to get the best out of a team.
-
-- Pair programming at Makers Academy to produce a variety of [projects](https://github.com/Adzz)
-- Successfully renovated and rented [my investment property](http://www.spareroom.co.uk/flatshare/hampshire/portsmouth/4632549) on a very tight schedule and budget in a team of just two.
-- As Alumni helper I regularly share knowledge with junior students to help with their learning. 
-- Worked and lived with a team of 10 people whilst yachting. Produced extremely high standards under constantly changing circumstances.
-
-#### Fast Learner
-
-Room for constant improvement and development is what has motivated me in everything I've done so far. I'm always looking for new and interesting technologies as well as methods to improve my working practices.
-
-- Built over 25 small projects in 12 weeks at Makers Academy.
-- Entered yachting with no previous experience and gained a promotion in under a year. 
-
-#### Comfortable in difficult or uncertain cirumstances
-
-One of the things I enjoy most about web development is that there is always more to learn. The consequence of this is that there's always something that you *don't* know. Being comfortable with situations like this is a skill I've had good practice with.
-
-- Working on yachts was nomadic, plans changed frequently if they ever existed. Uncertainty was part of the job.
-- Started a property business and successfully increased the value of out first property and rented it out.
-
 ## <a name="exp">Experience</a>
 
 #### Surfdome - Surfstich Group
@@ -96,6 +61,34 @@ Managed teams of deckhands and dayworkers, organised activities for demanding cl
 #### Deckhand
 
 Flew to Florida with no contacts and networked to secure a job on a 50m yacht with a sterling reputation. Responsibilities included; maintaing the yacht; driving tenders and keeping bridge watches; meeting the demands of some of the richest people in the world, being responsible for the safety of those same people during water sports, passages and parties. Secured a promotion in under a year.
+
+## <a name="skills">Skills</a>
+
+#### Presenting and Public Speaking
+
+Confident and comfortable presenting to large groups of people, even if I don't know them. Most proud of any presentation where I can get a genuine laugh, especially if it's with me, rather than at me.
+
+- Volunteered to do a lightning talk at [Rails Girls](http://railsgirls.london/) to what turned out to be an audience of over 150 people.
+- Have given a two talks at various meetups. One on functional programming ([slides here](http://slides.com/adz/deck-1#/)), the other of which included live coding. Where I coded. Live.
+- Presented to large and small groups of people at Makers including:
+  - Final project presentations, parts of which can be found on [Twitter](https://twitter.com/makersacademy/status/700746991995899904)
+  - Makerthon presentations to my cohort. (Project can be found [here](https://github.com/AlanGabbianelli/WISHD) )
+
+#### Collaboration
+
+At Makers Academy we pair programme from day one. I am very comfortable working with others effectively. Am extremley personable and have extensive practice in doing what's needed to get the best out of a team.
+
+- Pair programming at Makers Academy to produce a variety of [projects](https://github.com/Adzz)
+- Successfully renovated and rented [my investment property](http://www.spareroom.co.uk/flatshare/hampshire/portsmouth/4632549) on a very tight schedule and budget in a team of just two.
+- As Alumni helper I regularly share knowledge with junior students to help with their learning. 
+- Worked and lived with a team of 10 people whilst yachting. Produced extremely high standards under constantly changing circumstances.
+
+#### Comfortable in difficult or uncertain cirumstances
+
+One of the things I enjoy most about web development is that there is always more to learn. The consequence of this is that there's always something that you *don't* know. Being comfortable with situations like this is a skill I've had good practice with.
+
+- Working on yachts was nomadic, plans changed frequently if they ever existed. Uncertainty was part of the job.
+- Started a property business and successfully increased the value of out first property and rented it out.
 
 ## <a name="education">Education</a>
 
