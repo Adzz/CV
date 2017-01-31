@@ -25,6 +25,13 @@ Joined as part of a team dedicated to giving a much needed revamp to the backend
 - Spend 2 days teaching them how to build their own website using HTML and  CSS, most of whom have never programmed before.
 - It is always rewarding to see what they manage to achieve in such a short time. Teaching forces you to be a better communicator, which is invaluable to being a software developer.
 
+#### [Rails Girls](http://railsgirls.london/)
+#### Coach
+(November 2016 - ongoing)
+
+Volunteered as a coach at the November Rails Girls weekend. This is a great event which serves to encourage more women in tech roles.
+It is incredibly rewarding watching their passion develop in front of you, and always satisfying to see them realise what they are capable of.
+
 #### Makers Academy
 #### Alumni Helper
 (Feb 2016 to March 2016)
