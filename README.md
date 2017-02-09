@@ -2,7 +2,7 @@
 
 #### [Experience](#exp) | [Education](#education) | [Skills and Experience](#skills) | [Blog](https://36bcab.wordpress.com/) | [Website](adzz.github.io) | [Twitter](https://twitter.com/ItizAdz)
 
-  Aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Active in the community wherever they'll have me!
+  Aspiring software craftsman who never fails to find things he wants to be the best at, and who works hard to try and make this the case. Active in the community wherever they'll have me.
 
 ## <a name="exp">Experience</a>
 
